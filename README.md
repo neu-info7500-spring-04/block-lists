@@ -15,6 +15,7 @@ This project is designed to fetch and display a list of Bitcoin blocks from the 
 - Apollo Client for GraphQL integration.
 - Node.js and Express for the backend server.
 - CORS for handling cross-origin requests.
+- The api used is [Bitquery API](https://graphql.bitquery.io/)
 
 ## Installation
 
