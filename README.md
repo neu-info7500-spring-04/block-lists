@@ -1,13 +1,13 @@
 # block-lists
 
 
-This project is designed to fetch and display a list of Bitcoin blocks from the Bitquery GraphQL API. The aim is to achieve a functionality similar to the Blocks list in this website: [BTC website](https://explorer.btc.com/btc/blocks). The block lists in this project displays height,block size, transaction count, fee value and timestamp for a list of blocks within a particular time range.
+This project is designed to fetch and display a list of Bitcoin blocks from the Bitquery GraphQL API. The aim is to achieve a functionality similar to the Blocks list in this website: [BTC website](https://explorer.btc.com/btc/blocks). 
 
 ## Features
 
-- Fetch and display blocks and transactions for the last 8 hours.
+- Fetch and display block related information related to height,block size, transaction count, fee value and timestamp for a list of blocks within a particular time range.
 - Pagination support for block lists.
-- Client-side date selection for fetching blocks.
+
 
 ## Technologies
 
