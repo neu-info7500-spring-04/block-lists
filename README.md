@@ -23,7 +23,7 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository: git clone [URL](https://github.com/neu-info7500-spring-04/block-lists.git)
 2. Navigate to the project directory
-3. Install dependencies for both client and server
+3. Install dependencies for both client and server using npm install.
 4. Start the backend server by navigating to server folder and using this command: node index.js
 5. Start the frontend application in another terminal using npm start
 6. After starting the server and client navigate to `http://localhost:3000` in your web browser to view the application.
